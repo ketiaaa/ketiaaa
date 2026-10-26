@@ -57,12 +57,6 @@ Developer and IT professional focused on building reliable digital experiences â
 ![PRTG](https://img.shields.io/badge/-PRTG%20Network%20Monitor-00A0E9?style=flat&logoColor=white)
 
 
-**Dev Environment**
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
-
-
 ---
 
 
